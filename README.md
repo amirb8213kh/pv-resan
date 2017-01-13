@@ -1,5 +1,3 @@
-# [MsgResan](https://telegram.me/msgresanbot)
-*Msg Resan based on php*
 
 
 ```
@@ -15,6 +13,3 @@
 >>> آمار ربات ها
 >>>> ارسال به همه
 
-
-# سازنده و اوپن کننده
-* [@MrFlat](https://telegram.me/MrFlat) - AmirReza
